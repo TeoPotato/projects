@@ -44,10 +44,9 @@ const gameList = new Map([
     ],
     [
         'Other', new Map([
-            [000000000, {
-                name: 'Nill'
+            [806675928, {
+                name: 'bruh'
             }]
         ])
     ]
 ]);
-
